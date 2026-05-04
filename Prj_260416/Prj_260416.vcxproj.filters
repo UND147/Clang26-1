@@ -15,19 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LeapYearPrg_IfElse.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="StdGradePrg.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="AsciiRangeChecker.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="GugudanUsingLoop.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="TestPrg.c">
+    <ClCompile Include="ReverseNumber.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
